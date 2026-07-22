@@ -31,7 +31,7 @@ La solución implementa un flujo RAG clásico utilizando LangChain y OpenAI:
 Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 1. **Clonar el repositorio:**
-   ```bash
+   ```Bash
    git clone [https://github.com/Johan-Hdz/challenge-alura.git](https://github.com/Johan-Hdz/challenge-alura.git)
    cd challenge-alura
 
@@ -83,4 +83,6 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
   > No está en las políticas.
 
 ## 💻 Enlace del Agente
-   Puedes acceder al agente en el siguiente enlace: https://challenge-alura-aqxm5qfmsdm2jsvrkbfcut.streamlit.app/
+   Puedes acceder al agente en el siguiente enlace: 
+   ```Enlace
+      https://challenge-alura-aqxm5qfmsdm2jsvrkbfcut.streamlit.app/
