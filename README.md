@@ -36,12 +36,18 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
    cd challenge-alura
 
 2. **Crear y activar un entorno virtual:**
-   ```Windows
-   python -m venv venv
-   .\venv\Scripts\Activate.ps1
-   ```Mac/Linux
-   python3 -m venv venv
-   source venv/bin/activate
+
+   * En **Windows (PowerShell)**:
+     ```powershell
+     python -m venv venv
+     .\venv\Scripts\Activate.ps1
+     ```
+
+   * En **Mac / Linux**:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
 3. **Instalar las dependencias:**
      ```bash
      pip install -r requirements.txt
