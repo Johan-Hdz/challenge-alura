@@ -49,6 +49,9 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
    Crea un archivo denominado .env en la raíz del proyecto y añade tu API Key de OpenAI:
    ```Windows
    OPENAI_API_KEY="tu-clave-real-de-openai"
+5. Ejecutar la aplicación:
+   ```Bash
+   streamlit run agente_politicas.py
 
 
 
