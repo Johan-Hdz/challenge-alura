@@ -86,3 +86,6 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
    Puedes acceder al agente en el siguiente enlace: 
    ```Enlace
       https://challenge-alura-aqxm5qfmsdm2jsvrkbfcut.streamlit.app/
+   ```
+## Pruebas de ejecución en la nube
+<img width="1915" height="961" alt="image" src="https://github.com/user-attachments/assets/99bc28c0-9191-4dbb-9af6-06cc9e98aea5" />
