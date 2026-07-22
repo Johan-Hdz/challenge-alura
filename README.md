@@ -34,3 +34,27 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
    ```bash
    git clone [https://github.com/Johan-Hdz/challenge-alura.git](https://github.com/Johan-Hdz/challenge-alura.git)
    cd challenge-alura
+
+
+
+
+## 💡 Ejemplos de Preguntas que el Agente Puede Responder
+* ¿Cuál es el límite de dinero cubierto por noche para hoteles en categoría estándar?
+* ¿Qué requisitos necesito para solicitar la modalidad de teletrabajo?
+* ¿Se permite enviar información confidencial a correos externos como Gmail?
+* ¿Cuáles son las reglas para el reembolso de transporte terrestre (Uber/Cabify)?
+
+---
+
+## 💬 Ejemplos de Respuestas Generadas por el Agente
+
+* **Pregunta:** ¿Qué requisitos necesito para solicitar teletrabajo?
+  **Respuesta del Agente:**
+  > Para solicitar teletrabajo, necesitas cumplir con los siguientes requisitos:
+  > 1. Desempeñar funciones que puedan realizarse eficazmente fuera de la oficina.
+  > 2. Haber completado el período de prueba de 6 meses.
+  > 3. Contar con la aprobación formal de tu gerente directo.
+
+* **Pregunta:** ¿En qué año fue la Segunda Guerra Mundial?
+  **Respuesta del Agente:**
+  > No está en las políticas.
