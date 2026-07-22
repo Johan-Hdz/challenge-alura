@@ -42,11 +42,12 @@ Si deseas clonar y ejecutar este proyecto en tu entorno local, sigue estos pasos
    ```Mac/Linux
    python3 -m venv venv
    source venv/bin/activate
-3. Instalar las dependencias:
+3. **Instalar las dependencias:**
      ```bash
      pip install -r requirements.txt
-4. Configurar las credenciales:
+4. **Configurar las credenciales:**
    Crea un archivo denominado .env en la raíz del proyecto y añade tu API Key de OpenAI:
+   ```Windows
    OPENAI_API_KEY="tu-clave-real-de-openai"
 
 
